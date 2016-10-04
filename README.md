@@ -1,4 +1,4 @@
-# FinalProject
+# Final Project
 
 The goal of this application is to create a model to predict next word from data files that have collected from:Blogs, News and blogs files.
 
